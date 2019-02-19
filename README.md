@@ -57,6 +57,7 @@ The fonts you need are already linked to your content.html. You'll be using the 
 Now that we have our fonts looking amazing, let's get back onto spacing our items on the page and adding some color. You'll be using the colors from [this color scheme](https://coolors.co/4c5760-d3d0cb-839788-461220-8c2f39) to design your page. Focus on using the same properties that you did on the cover (**width**, **padding**, **margin**) to shape the white space around your text.
 
 When you have your text placed well, add in the small border to the block quote to take your styling up another level.
+![](mockups/advanced_content.png)
 
 #### The Challenge
 
