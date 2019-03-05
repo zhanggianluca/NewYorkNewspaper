@@ -8,7 +8,7 @@ As we all know, New York is a pretty amazing state. In this lab we're going to h
 ## The Lab
 The mockup you're going to create already has the html written for it, but you'll be writing the css rulesets needed to make it look like the mockups you'll see below. Each page of the magazine will be in its own HTML file and therefore have its own corresponding css stylesheet. Check out the details below to get started!
 
-<!--Question: am I writing the selectors and they're writing the rules?  -->
+
 #### The Cover
 
 ###### Draft One
