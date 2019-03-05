@@ -33,7 +33,7 @@ For this mockup you'll want to focus in on:
 * **font** of text.
 * **opacity** of text.
 
-![](resources/middle_cover.png)
+![](mockups/middle_cover.png)
 
 ###### Draft Three
 Now that your text is looking fantastic, you've realized that the main area of your cover is looking a little bland. For this draft we're going to change up the html a little to add a new image for you to style. Head into the cover.html file and uncomment the img tag on line 13. When you do this, you should see an image appear on your page.
