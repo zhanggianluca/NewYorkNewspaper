@@ -1,4 +1,7 @@
 # Extra, Extra, Read all about it!
+
+[![Run on Repl.it](https://repl.it/badge/github/upperlinecode/NewYorkNewspaper)](https://repl.it/github/upperlinecode/NewYorkNewspaper)
+
 ![](readme_header.jpg)
 
 ## The Goal
