@@ -1,24 +1,63 @@
 .page {
-  width:
-  height:
+  width: 700px;
+  height: 1000px; 
+  background-color: #D3D0CB; 
 }
 
 #article_title {
-
+  font-family: 'Anton';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 50px;
+  letter-spacing: 7px;
+  padding-left: 30px; 
+  padding-top: 40px; 
+  color: #461220; 
 }
 
 #intro {
-
+  font-family: 'Oswald';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 25px; 
+  line-height: 2.5;
+  margin-right: 105px; 
+  padding-left: 30px; 
+  color: #8C2F39; 
 }
 
 .question{
-
+  font-family: 'Raleway';
+  font-style: normal; 
+  font-weight: 900; 
+  font-size: 20px; 
+  margin-right: 75px; 
+  margin-bottom: 0px; 
+  padding-left: 25px; 
+  color: #4C5760; 
 }
 
 .answer{
-
+  font-family: 'Raleway';
+  font-style: normal; 
+  font-size: 20px;
+  font-weight: 10;  
+  margin-right: 135px;
+  margin-top: 5px; 
+  padding-left: 25px; 
+  color: #4C5760; 
 }
 
 #block_quote {
-
+  font-family: 'Oswald';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 35px; 
+  width: 50%; 
+  margin: auto;
+  padding-left: 10px;  
+  color: #8C2F39; 
+  border-style: hidden hidden hidden solid; 
+  border-color: #4C5760; 
+  border-width: 2px; 
 }
